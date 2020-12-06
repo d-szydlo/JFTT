@@ -14,6 +14,3 @@ testowałam program to 128,5 MB i dał radę, a z większymi też bez problemu
 powinien dać radę, bo nie wczytuje całego pliku na raz, tylko linijka po 
 linijce. No chyba, że cały plik będzie jedną linijką, to wtedy może być
 problem.
-
-W poleceniu jest napisane, że plik README powinien zawierać moje dane, więc oto
-one - Dominika Szydło, nr albumu 250109.
